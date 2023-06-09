@@ -21,5 +21,5 @@ NOTE: You can add as many users as you want.
 5)	To run the container run the command:
 ```docker run -it -d --restart unless-stopped -p 8000:8000 te-api-display-v1.0```
 
-6)	Very that the container is running with the command:
+6)	Verify that the container is running with the command:
 ```docker ps```
