@@ -5,7 +5,7 @@ To execute this project:
 
 1)	Install on your Linux machine Docker version 20.10.24, build 297e128.
 
-2)	Clone the Git repository to your working directory.
+2)	Clone the Git repository to your working directory and unzip the te_api_display.zip file.
 
 3)	Add your email address and ThousandEyes authToken to the config.py file located in the directory te_api_display/te_api_app/:
 ```
